@@ -1,3 +1,5 @@
+
+
 # brute-force-cryptowallet
 - This is a tool for those of you who've somehow lost your Ethereum wallet password. 
 - It's essentially a stripped-down version of [pyethsaletool](https://github.com/ethereum/pyethsaletool).  In addition you can have passwords be read from a newline-delimited file, and/or provide a specification to be used to generate passwords. The multiprocessing library `joblib` is used to test out passwords using all the cores on your machine. 
@@ -42,7 +44,6 @@ If you run the utility like so...
 
     shelly sells seashells down by the seashore
     It was the best time of times, it was the worst of times...
-    Password1
     correct horse battery staple
 
     Your seed is:
